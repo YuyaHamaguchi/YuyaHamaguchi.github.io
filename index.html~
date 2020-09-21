@@ -13,12 +13,12 @@
 			<article>
 
 				<ul>
-				  <font color="white">
+				  
 					<li><a href= "https://yuyahamaguchi.github.io/basic/about/" target="_blank" >
-					About Me</a></li>
+					<font color="white"> About Me </font> </a></li>
 					<li><a href= "https://yuyahamaguchi.github.io/basic/" target="_blank" >
-					My notes (blog)</a></li>
-				  </font>
+					<font color="white">My notes (blog) </font> </a></li>
+				  
 				</ul>
 
 			</article>
