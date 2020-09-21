@@ -11,14 +11,16 @@
 		<section>
 			<h3>Links</h3>
 			<article>
-			  <!--
+
 				<ul>
+				  <font color="white">
 					<li><a href= "https://yuyahamaguchi.github.io/basic/about/" target="_blank" >
 					About Me</a></li>
 					<li><a href= "https://yuyahamaguchi.github.io/basic/" target="_blank" >
 					My notes (blog)</a></li>
+				  </font>
 				</ul>
-				-->
+
 			</article>
 		</section>
 	</div>
